@@ -199,8 +199,8 @@ font:
   # Font settings for <code> and code blocks.
   codes:
     external: true
-    family: Monospace
-    size: 16
+    family: Ubuntu Mono
+    size:
 
 
 
